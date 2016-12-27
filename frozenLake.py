@@ -1,5 +1,5 @@
 """ 
-Implementation of the Q-Table algorithm in the OpenAI FrozenLake environment.
+Implementation of the Q-Table algorithm in the OpenAI FrozenLake-v0 environment.
 Following tutorial by Arthur Juliani.
 """
 
