@@ -1,6 +1,6 @@
 """
 Implementation of Q-Network Learning (one-layer neural network) to solve OpenAI's FrozenLake-v0 environment.
-Following tutorial by Arthur Juliani.
+Following tutorial 0 by Arthur Juliani.
 """
 
 import gym

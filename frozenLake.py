@@ -1,6 +1,6 @@
 """ 
 Implementation of the Q-Table algorithm in the OpenAI FrozenLake-v0 environment.
-Following tutorial by Arthur Juliani.
+Following tutorial 0 by Arthur Juliani.
 """
 
 import gym
