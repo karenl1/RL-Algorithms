@@ -1,5 +1,5 @@
 """
-Implementation of a policy-gradient based agent to solve the contextual bandit problem.
+Implementation of a policy-gradient based agent to solve the contextual n-armed bandit problem.
 This example utilizes three four-armed bandits and features a single-layer neural network in Tensorflow that takes a state and produces an action.
 Following Tutorial 1.5 by Arthur Juliani. 
 """
